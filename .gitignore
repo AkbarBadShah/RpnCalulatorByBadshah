@@ -11,3 +11,5 @@ dist
 *.egg-info
 MANIFEST
 rough
+new.py
+instructions
